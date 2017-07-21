@@ -32,3 +32,5 @@ msbuild.wrn
 .vs/
 
 AppSettings.json
+
+node_modules

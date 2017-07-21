@@ -8,7 +8,7 @@
 
 ### Getting Started
 
-* `git clone <this repository>`
+* `git clone https://github.com/xtellurian/AzureTextAnalyticsDemo`
 
 * `dotnet restore`
 
